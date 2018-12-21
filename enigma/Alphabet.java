@@ -2,8 +2,7 @@ package enigma;
 
 /** An alphabet of encodable characters.  Provides a mapping from characters
  *  to and from indices into the alphabet.
- *  @author P. N. Hilfinger
- */
+ *  @author P. N. Hilfinger */
 abstract class Alphabet {
 
     /** Returns the size of the alphabet. */
